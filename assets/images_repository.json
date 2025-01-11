@@ -1,0 +1,38 @@
+{
+  "images": {
+    "birthday": [
+      "https://pixabay.com/illustrations/cat-birthday-balloon-wish-pet-5781057/",
+      "https://pixabay.com/illustrations/happy-birthday-birthday-card-875122/",
+      "https://pixabay.com/vectors/birthday-card-cele-celebration-3148707/",
+      "https://pixabay.com/illustrations/happy-birthday-date-of-birth-813182/",
+      "https://pixabay.com/illustrations/party-gifts-surprise-balloons-7471625/",
+      "https://pixabay.com/illustrations/happy-birthday-celebration-party-5689356/",
+      "https://pixabay.com/illustrations/cake-balloons-candles-strawberries-5633461/",
+      "https://pixabay.com/photos/happy-birthday-date-of-birth-frog-1211912/",
+      "https://pixabay.com/illustrations/happy-birthday-date-of-birth-813181/",
+      "https://pixabay.com/illustrations/happy-birthday-date-of-birth-813188/",
+      "https://pixabay.com/vectors/happy-birthday-date-of-birth-388123/",
+      "https://pixabay.com/illustrations/birthday-greeting-camel-6932491/",
+      "https://pixabay.com/illustrations/couple-cake-birthday-cake-birthday-8435096/",
+      "https://pixabay.com/illustrations/birthday-birthday-cake-6839514/"
+    ],
+    "housewarming" : [
+      "https://pixabay.com/illustrations/room-flowers-window-interior-house-3191241/",
+      "https://pixabay.com/illustrations/mountain-hill-house-hut-landscape-7300017/",
+      "https://pixabay.com/vectors/house-lake-green-house-2023960/",
+      "https://github.com/namanshrimali/merrymakinwebsite/blob/main/assets/housewarming_1.jpeg"
+    ],
+    "game": [
+      "https://pixabay.com/vectors/wrestler-wrestling-comic-man-149840/",
+      "https://pixabay.com/vectors/game-over-controller-buttons-5465779/",
+      "https://pixabay.com/illustrations/game-over-game-pixel-artwork-7952252/",
+      "https://pixabay.com/vectors/car-racer-retro-mountain-poster-8799460/",
+      "https://github.com/namanshrimali/merrymakinwebsite/blob/main/assets/game_1.jpeg",
+      "https://github.com/namanshrimali/merrymakinwebsite/blob/main/assets/game_2.jpeg"
+    ],
+    "anime": [
+      "https://pixabay.com/illustrations/anime-fantasy-manga-cute-cartoon-8801333/",
+      "https://pixabay.com/illustrations/christmas-party-party-company-7606989/"
+    ]
+  }
+}

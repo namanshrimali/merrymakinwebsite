@@ -5,10 +5,188 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MerryMakin</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+        }
+        .navbar {
+            background: linear-gradient(to right, rgb(106, 106, 221), violet);
+            color: white;
+            display: flex;
+            align-items: center;
+            padding: 10px 20px;
+        }
+        .navbar img {
+            height: 40px; /* Adjust icon size */
+            margin-right: 15px;
+        }
+        .navbar h1 {
+            margin: 0;
+            font-size: 24px;
+        }
+        .hero {
+            background: linear-gradient(to right, rgb(106, 106, 221), violet);
+            color: white;
+            text-align: center;
+            padding: 100px 20px;
+        }
+        .button {
+            background-color: black;
+            color: white;
+            border: none;
+            border-radius: 25px;
+            padding: 15px 30px;
+            margin: 10px;
+            cursor: pointer;
+            font-size: 18px;
+            text-decoration: none;
+            display: inline-block;
+        }
+        .features {
+            display: flex;
+            justify-content: space-around;
+            padding: 50px 20px;
+            position: relative;
+            overflow: hidden;
+        }
+        .feature {
+            text-align: center;
+            width: 30%;
+            position: relative;
+            z-index: 1;
+            padding: 20px;
+            border-radius: 10px;
+            color: white;
+        }
+        .feature:nth-child(1) {
+            background-color: #ff6f61; /* Fun background color */
+        }
+        .feature:nth-child(2) {
+            background-color: #6fbf7f; /* Fun background color */
+        }
+        .feature:nth-child(3) {
+            background-color: #f7c94c; /* Fun background color */
+        }
+        .feature img {
+            height: 400px; /* Adjust icon size */
+            margin-bottom: 15px;
+            z-index: 2; /* Ensure images are above the slant */
+            position: relative; /* Position relative to the feature */
+        }
+        .slant {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            background: inherit;
+            transform: skewY(-5deg);
+            top: 0;
+            left: 0;
+            z-index: 0; /* Keep slant behind the content */
+        }
+        .feature h3, .feature p {
+            position: relative; /* Ensure text is above the slant */
+            z-index: 3; /* Ensure text is above the slant */
+            margin: 10px 0; /* Add some margin for spacing */
+        }
+        .testimonials {
+            background-color: #fff;
+            padding: 50px 20px;
+            text-align: center;
+        }
+        .testimonial {
+            margin: 20px 0;
+            font-style: italic;
+        }
+        .footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+    </style>
 </head>
 
 <body>
-    MerryMakin
+    <div class="navbar">
+        <img src="assets/website/merrymakinlogo3.png" alt="App Icon"> <!-- Update the path as necessary -->
+        <h1>MerryMakin</h1>
+    </div>
+    
+    <div class="hero">
+        <h1>Plan. Invite. Celebrate!</h1>
+        <h2>Create stunning event pages, share invites effortlessly, and celebrate your way</h2>
+        <div id="download-buttons"></div> <!-- Placeholder for download buttons -->
+    </div>
+
+    <div class="features">
+        <div class="feature">
+            <div class="slant"></div>
+            <img src="assets/website/allevents.png" alt="Feature 1">
+            <h3>Create Events in Seconds</h3>
+            <p>Simple and quick setup, so you can focus on the fun.</p>
+        </div>
+        <div class="feature">
+            <div class="slant"></div>
+            <img src="assets/website/editevent.png" alt="Feature 2">
+            <h3>Customize Your Event Page</h3>
+            <p>Add your personal touch with cool posters and unique details.</p>
+        </div>
+        <div class="feature">
+            <div class="slant"></div>
+            <img src="assets/website/invite.png" alt="Feature 3">
+            <h3>Invite Guests Effortlessly</h3>
+            <p>Share your event link on any platform—messaging apps, social media, or email.</p>
+        </div>
+    </div>
+
+    <div class="testimonials">
+        <h2>What Our Users Say</h2>
+        <div class="testimonial">"MerryMakin made my event planning so easy!" - Yash</div>
+        <div class="testimonial">"I love how customizable the event pages are!" - Tanmay</div>
+        <div class="testimonial">"Inviting guests has never been easier!" - Rahul</div>
+    </div>
+
+    <div class="footer">
+        <p>&copy; 2025 MerryMakin. All rights reserved.</p>
+        <div id="footer-download-buttons"></div> <!-- Placeholder for footer download buttons -->
+    </div>
+
+    <script>
+        function detectDevice() {
+            const userAgent = navigator.userAgent || navigator.vendor || window.opera;
+            const downloadButtonsHero = document.getElementById('download-buttons');
+            const downloadButtonsFooter = document.getElementById('footer-download-buttons');
+
+            if (/android/i.test(userAgent)) {
+                downloadButtonsHero.innerHTML = `
+                    <a href="path/to/android-app.apk" class="button">Download for Android</a>
+                `;
+                downloadButtonsFooter.innerHTML = `
+                    <a href="path/to/android-app.apk" class="button">Download for Android</a>
+                `;
+            } else if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
+                downloadButtonsHero.innerHTML = `
+                    <a href="path/to/ios-app" class="button">Download for iOS</a>
+                `;
+                downloadButtonsFooter.innerHTML = `
+                    <a href="path/to/ios-app" class="button">Download for iOS</a>
+                `;
+            } else {
+                downloadButtonsHero.innerHTML = `
+                    <a href="path/to/android-app.apk" class="button">Download for Android</a>
+                    <a href="path/to/ios-app" class="button">Download for iOS</a>
+                `;
+                downloadButtonsFooter.innerHTML = `
+                    <a href="path/to/android-app.apk" class="button">Download for Android</a>
+                    <a href="path/to/ios-app" class="button">Download for iOS</a>
+                `;
+            }
+        }
+
+        // Call the function to detect device and display buttons
+        detectDevice();
+    </script>
 </body>
 
 </html>

@@ -1,6 +1,6 @@
 {
   "images": {
-    "birthday": [
+    "Birthday": [
       "https://cdn.pixabay.com/photo/2020/11/27/06/58/cat-5781057_960_720.jpg",
       "https://cdn.pixabay.com/photo/2015/08/04/19/21/happy-birthday-875122_960_720.jpg",
       "https://cdn.pixabay.com/photo/2018/02/12/16/40/birthday-3148707_960_720.png",
@@ -15,22 +15,26 @@
       "https://cdn.pixabay.com/photo/2023/12/07/08/34/couple-8435096_960_720.png",
       "https://cdn.pixabay.com/photo/2021/12/02/02/58/birthday-6839514_960_720.jpg"
     ],
-    "housewarming": [
+    "Housewarming": [
       "https://cdn.pixabay.com/photo/2018/03/01/17/36/room-3191241_960_720.jpg",
       "https://cdn.pixabay.com/photo/2022/07/03/21/43/mountain-7300017_960_720.jpg",
       "https://cdn.pixabay.com/photo/2017/01/31/13/18/house-2023960_960_720.png",
-      "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/housewarming_1.jpeg"
+      "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/housewarming_1.jpeg",
+      "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/housewarming_2.jpeg"
     ],
-    "game": [
+    "Game": [
       "https://cdn.pixabay.com/photo/2020/08/05/15/26/game-5465779_960_720.png",
       "https://cdn.pixabay.com/photo/2023/04/26/11/57/game-over-7952252_960_720.png",
       "https://cdn.pixabay.com/photo/2024/05/30/23/27/car-8799460_960_720.png",
       "https://github.com/namanshrimali/merrymakinwebsite/blob/main/assets/game_1.jpeg?raw=true",
       "https://github.com/namanshrimali/merrymakinwebsite/blob/main/assets/game_2.jpeg?raw=true"
     ],
-    "anime": [
+    "Anime": [
       "https://cdn.pixabay.com/photo/2024/06/01/01/33/anime-8801333_960_720.png",
       "https://cdn.pixabay.com/photo/2022/11/21/12/59/christmas-party-7606989_960_720.png"
+    ],
+    "Outdoors": [
+      "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/hike_1.jpeg"
     ]
   }
 }

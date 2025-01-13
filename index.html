@@ -49,6 +49,7 @@
             padding: 50px 20px;
             position: relative;
             overflow: hidden;
+            flex-wrap: wrap; /* Allow wrapping of features */
         }
         .feature {
             text-align: center;
@@ -58,6 +59,7 @@
             padding: 20px;
             border-radius: 10px;
             color: white;
+            margin: 10px; /* Add margin for spacing */
         }
         .feature:nth-child(1) {
             background-color: #ff6f61; /* Fun background color */
@@ -103,6 +105,18 @@
             color: white;
             text-align: center;
             padding: 20px 0;
+        }
+
+        /* Media Query for Responsive Design */
+        @media (max-width: 768px) {
+            .feature {
+                width: 100%; /* Full width on small screens */
+                margin: 10px 0; /* Margin for spacing */
+            }
+            .features {
+                flex-direction: column; /* Stack features vertically */
+                align-items: center; /* Center align features */
+            }
         }
     </style>
 </head>

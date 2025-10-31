@@ -1,0 +1,36 @@
+{
+  "images": {
+    "Superheroes": [
+      "https://github.com/namanshrimali/merrymakinwebsite/blob/main/assets/1.jpeg",
+      "https://github.com/namanshrimali/merrymakinwebsite/blob/main/assets/2.jpeg",
+      "https://github.com/namanshrimali/merrymakinwebsite/blob/main/assets/3.jpeg",
+      "https://github.com/namanshrimali/merrymakinwebsite/blob/main/assets/4.jpeg",
+      "https://github.com/namanshrimali/merrymakinwebsite/blob/main/assets/5.jpeg",
+      "https://github.com/namanshrimali/merrymakinwebsite/blob/main/assets/6.jpeg",
+      "https://github.com/namanshrimali/merrymakinwebsite/blob/main/assets/7.jpeg",
+      "https://github.com/namanshrimali/merrymakinwebsite/blob/main/assets/8.jpeg",
+      "https://github.com/namanshrimali/merrymakinwebsite/blob/main/assets/12.jpeg",
+      "https://github.com/namanshrimali/merrymakinwebsite/blob/main/assets/13.jpeg",
+      "https://github.com/namanshrimali/merrymakinwebsite/blob/main/assets/15.jpeg",
+      "https://github.com/namanshrimali/merrymakinwebsite/blob/main/assets/16.jpeg"
+      
+    ],
+    "Anime": [
+       "https://github.com/namanshrimali/merrymakinwebsite/blob/main/assets/25.jpeg",
+       "https://github.com/namanshrimali/merrymakinwebsite/blob/main/assets/26.jpeg",
+       "https://github.com/namanshrimali/merrymakinwebsite/blob/main/assets/27.jpeg",
+       "https://github.com/namanshrimali/merrymakinwebsite/blob/main/assets/28.jpeg",
+       "https://github.com/namanshrimali/merrymakinwebsite/blob/main/assets/29.jpeg"
+    ],
+    "Pets": [
+      "https://github.com/namanshrimali/merrymakinwebsite/blob/main/assets/17.jpeg",
+      "https://github.com/namanshrimali/merrymakinwebsite/blob/main/assets/18.jpeg",
+      "https://github.com/namanshrimali/merrymakinwebsite/blob/main/assets/19.jpeg",
+      "https://github.com/namanshrimali/merrymakinwebsite/blob/main/assets/20.jpeg",
+      "https://github.com/namanshrimali/merrymakinwebsite/blob/main/assets/21.jpeg",
+      "https://github.com/namanshrimali/merrymakinwebsite/blob/main/assets/22.jpeg",
+      "https://github.com/namanshrimali/merrymakinwebsite/blob/main/assets/23.jpeg",
+      "https://github.com/namanshrimali/merrymakinwebsite/blob/main/assets/24.jpeg"
+    ]
+  }
+}

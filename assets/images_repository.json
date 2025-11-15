@@ -1,5 +1,10 @@
 {
   "images": {
+    "Thanks Giving": [
+      "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/tg1",
+      "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/tg2",
+      "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/tg3"
+    ],
     "Birthday": [
       "https://cdn.pixabay.com/photo/2020/11/27/06/58/cat-5781057_960_720.jpg",
       "https://cdn.pixabay.com/photo/2015/08/04/19/21/happy-birthday-875122_960_720.jpg",

@@ -1,45 +1,45 @@
 {
   "images": {
     "Superheroes": [
-      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/1.jpeg",
-      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/2.jpeg",
-      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/3.jpeg",
-      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/4.jpeg",
-      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/5.jpeg",
-      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/6.jpeg",
-      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/7.jpeg",
-      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/8.jpeg",
-      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/12.jpeg",
-      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/13.jpeg",
-      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/15.jpeg",
-      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/16.jpeg"
+      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/1.jpeg",
+      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/2.jpeg",
+      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/3.jpeg",
+      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/4.jpeg",
+      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/5.jpeg",
+      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/6.jpeg",
+      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/7.jpeg",
+      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/8.jpeg",
+      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/12.jpeg",
+      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/13.jpeg",
+      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/15.jpeg",
+      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/16.jpeg"
     ],
     "Princess": [
-      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/30.jpeg",
-      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/31.jpeg",
-      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/32.jpeg",
-      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/33.jpeg",
-      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/34.jpeg",
-      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/35.jpeg",
-      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/36.jpeg",
-      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/37.jpeg"
+      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/30.jpeg",
+      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/31.jpeg",
+      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/32.jpeg",
+      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/33.jpeg",
+      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/34.jpeg",
+      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/35.jpeg",
+      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/36.jpeg",
+      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/37.jpeg"
     ],
     "Anime": [
-       "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/25.jpeg",
-       "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/26.jpeg",
-       "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/27.jpeg",
-       "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/28.jpeg",
-       "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/29.jpeg"
+       "https://merrymakinbucket.s3.us-east-2.amazonaws.com/25.jpeg",
+       "https://merrymakinbucket.s3.us-east-2.amazonaws.com/26.jpeg",
+       "https://merrymakinbucket.s3.us-east-2.amazonaws.com/27.jpeg",
+       "https://merrymakinbucket.s3.us-east-2.amazonaws.com/28.jpeg",
+       "https://merrymakinbucket.s3.us-east-2.amazonaws.com/29.jpeg"
     ],
     "Pets": [
-      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/17.jpeg",
-      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/18.jpeg",
-      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/19.jpeg",
-      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/20.jpeg",
-      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/21.jpeg",
-      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/22.jpeg",
-      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/23.jpeg",
-      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/website/24.jpeg"
+      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/17.jpeg",
+      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/18.jpeg",
+      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/19.jpeg",
+      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/20.jpeg",
+      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/21.jpeg",
+      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/22.jpeg",
+      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/23.jpeg",
+      "https://merrymakinbucket.s3.us-east-2.amazonaws.com/24.jpeg"
     ]
   }
 }

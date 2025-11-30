@@ -1,16 +1,21 @@
 {
   "images": {
-    "Thanksgiving": [
-      "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/tg1.jpg",
-      "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/tg2.jpg",
-      "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/tg3.jpg"
-    ],
     "Christmas": [
       "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/christmas1.jpeg",
       "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/christmas2.jpeg",
       "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/christmas3.jpeg",
       "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/christmas4.jpeg",
       "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/christmas5.jpeg"
+    ],
+    "New Year": [
+       "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/nw1.jpg",
+       "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/nw2.jpg",
+       "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/nw3.jpg"
+    ],
+    "Thanksgiving": [
+      "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/tg1.jpg",
+      "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/tg2.jpg",
+      "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/tg3.jpg"
     ],
     "Birthday": [
       "https://cdn.pixabay.com/photo/2020/10/06/21/54/cake-5633461_960_720.png",

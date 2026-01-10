@@ -10,6 +10,16 @@
        "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/nw3.jpg",
       "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/nw4.jpg"
     ],
+    "Birthday": [
+      "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/hbd10.JPG",
+      "https://cdn.pixabay.com/photo/2020/10/06/21/54/cake-5633461_960_720.png",
+      "https://cdn.pixabay.com/photo/2015/06/17/23/23/happy-birthday-813181_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2015/06/17/23/33/happy-birthday-813188_960_720.jpg",
+      "https://cdn.pixabay.com/photo/2014/07/09/10/59/happy-birthday-388123_960_720.png",
+      "https://cdn.pixabay.com/photo/2022/01/12/10/17/birthday-6932491_960_720.png",
+      "https://cdn.pixabay.com/photo/2023/12/07/08/34/couple-8435096_960_720.png",
+      "https://cdn.pixabay.com/photo/2021/12/02/02/58/birthday-6839514_960_720.jpg"
+    ],
     "Lunar New Year": [
        "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/Lny1.jpg",
        "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/Lny2.jpg",
@@ -36,15 +46,6 @@
       "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/tg1.jpg",
       "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/tg2.jpg",
       "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/tg3.jpg"
-    ],
-    "Birthday": [
-      "https://cdn.pixabay.com/photo/2020/10/06/21/54/cake-5633461_960_720.png",
-      "https://cdn.pixabay.com/photo/2015/06/17/23/23/happy-birthday-813181_960_720.jpg",
-      "https://cdn.pixabay.com/photo/2015/06/17/23/33/happy-birthday-813188_960_720.jpg",
-      "https://cdn.pixabay.com/photo/2014/07/09/10/59/happy-birthday-388123_960_720.png",
-      "https://cdn.pixabay.com/photo/2022/01/12/10/17/birthday-6932491_960_720.png",
-      "https://cdn.pixabay.com/photo/2023/12/07/08/34/couple-8435096_960_720.png",
-      "https://cdn.pixabay.com/photo/2021/12/02/02/58/birthday-6839514_960_720.jpg"
     ],
     "Housewarming": [
       "https://cdn.pixabay.com/photo/2018/03/01/17/36/room-3191241_960_720.jpg",

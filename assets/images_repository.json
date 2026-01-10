@@ -1,5 +1,9 @@
 {
   "images": {
+    "Get-Together": [
+      "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/p1.JPG",
+      "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/p2.JPG"
+    ],
     "New Year": [
        "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/nw1.jpg",
        "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/nw2.jpg",
@@ -16,7 +20,11 @@
       "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/Lny8.jpg",
       "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/Lny9.jpg"
     ],
-    
+    "Wedding": [
+      "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/w1.JPG",
+      "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/w2.JPG",
+      "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/w3.JPG"
+    ],
     "Christmas": [
       "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/christmas1.jpeg",
       "https://raw.githubusercontent.com/namanshrimali/merrymakinwebsite/refs/heads/main/assets/christmas2.jpeg",
